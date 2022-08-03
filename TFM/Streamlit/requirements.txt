@@ -1,17 +1,7 @@
 numpy
 pandas
 scipy
-scikit-learn
 matplotlib
-seaborn
-plotly
-altair
-bokeh
-pillow
-opencv-python
-jupyter
 streamlit
 pandas-profiling
 streamlit-pandas-profiling
-openpyxl
-xlrd
